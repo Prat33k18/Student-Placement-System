@@ -1,23 +1,3 @@
-# Placement Management System
-
-## Overview
-
-This project is a simple placement management system built with React for the frontend and Spring Boot for the backend. It allows users to submit placement details and view all submitted placements.
-
-## Features
-
-- Submit placement details through a form.
-- View all submitted placements in a tabular format.
-- CORS configuration to allow frontend (React) and backend (Spring Boot) communication during development.
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- Java Development Kit (JDK) 8 or later installed.
-- Node.js and npm installed.
-- Spring Boot and Maven installed.
-
 ## Project Structure
 
 ### Frontend (React)
